@@ -64,7 +64,7 @@ Why open source? Because knowledge, like fungi, grows better when it's shared. E
 
 Got ideas? Want to contribute? Or just looking to join a team that's as passionate about AI as you are? Hit us up! We're always stoked to connect with fellow builders and thinkers.
 
-Drop us a line at [contact@mycellium.ai](mailto:contact@mycellium.ai) or find us on [GitHub](https://github.com/myceliumAI).
+Find us on [GitHub](https://github.com/myceliumAI).
 
 ---
 
